@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Minionvanillq.aternos.me",
+    "ip": "handfish.aternos.host:30428",
     "port": 30428,
     "version": "",
     "try-creative": false
